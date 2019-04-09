@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0.004674">
+    <testcase classname="To verify the value is getting incremented when personalised" name="To verify the value is getting incremented when personalised" time="0.004674">
+        <skipped>
+            <![CDATA[Given the user is in Home page..............................................undefined
+When the user added the courses in MyCourses list...........................undefined
+Then the user should see the added courses in Content.......................undefined
+]]>
+        </skipped>
+    </testcase>
+</testsuite>
